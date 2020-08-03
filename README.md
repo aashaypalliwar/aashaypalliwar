@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**aashaypalliwar/aashaypalliwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi there! I'm Aashay Palliwar</h3>
+<p align="center">
+  <a href="https://aashaypalliwar.github.io/">Webpage</a> •
+  <a href="https://bbs-underscored.github.io/">Blog</a> •
+  <a href="https://www.linkedin.com/in/aashay-palliwar/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
+✨  I am a pre-final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
+I aim to create a lasting impact on people who are just beginning to explore their professional technical education. I am actively working to share my experiences and learnings with my peers and every community of synergetic individuals who wish to make a difference.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Full-stack developemnt
+- 🌱 I’m currently exploring ML/DL
+- 😄 I’m looking to collaborate for large scale community-focused technical-education initiatives, hackathons and webinars.    
+- 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
