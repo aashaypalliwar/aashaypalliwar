@@ -1,9 +1,9 @@
 
 <h3 align="center">👋 Hi there! I'm Aashay Palliwar</h3>
 <p align="center">
-  <a href="https://aashaypalliwar.github.io/">Webpage</a> •
-  <a href="https://bbs-underscored.github.io/">Blog</a> •
-  <a href="https://www.linkedin.com/in/aashay-palliwar/">LinkedIn</a>
+  <a href="https://aashaypalliwar.github.io/" target="_blank">Webpage</a> •
+  <a href="https://bbs-underscored.github.io/" target="_blank">Blog</a> •
+  <a href="https://www.linkedin.com/in/aashay-palliwar/" target="_blank">LinkedIn</a>
 </p>
 
 ---
