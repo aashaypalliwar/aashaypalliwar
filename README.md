@@ -7,9 +7,6 @@
 </p>
 
 ---
-✨  I am a pre-final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
-I aim to create a lasting impact on people who are just beginning to explore their professional technical education. I am actively working to share my experiences and learnings with my peers and every community of synergetic individuals who wish to make a difference.  
-
-- 🔭 I’m currently working on backend development
-- 😄 I’m looking to collaborate for large scale community-focused technical-education initiatives, hackathons and webinars.    
+- ✨ I am a pre-final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
+- 🔭 I’m currently working on backend development.   
 - 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
