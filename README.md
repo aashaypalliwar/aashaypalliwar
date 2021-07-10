@@ -7,6 +7,6 @@
 </p>
 
 ---
-- ✨ I am a pre-final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
+- ✨ I am a final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 - 🔭 I’m currently working on backend development.   
 - 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
