@@ -8,5 +8,5 @@
 
 ---
 - ✨ I am a final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
-- 🔭 I’m currently working on backend development.   
+- 🔭 I’m currently working on distributed systems and software engineering.   
 - 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
