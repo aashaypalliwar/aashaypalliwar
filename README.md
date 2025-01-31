@@ -7,7 +7,7 @@
 </p>
 
 ---
-- ✨ I am currently working as an SDE-II with Amazon's Digital Acceleration Org.
+- ✨ I am currently working as an SDE-II with AWS CloudWatch Logs' Analytics Vertical.
 - 🔭 I completed my graduation in Computer Science and Engineering from IIT Bhubaneswar.
 - ✨ I’m currently working on distributed systems and software engineering.   
 - 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
